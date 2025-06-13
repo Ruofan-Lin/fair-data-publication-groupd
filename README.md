@@ -65,7 +65,7 @@ This research project was funded by...
 
 # 2. METHODOLOGICAL INFORMATION
 ## 2.1 Research questions, methods and envisioned uses
-Insert brief overarching summary of methods...
+Our research question is that how an integrated urban stream restoration project in Jablonec nad Nisou balance diverse stakeholder interests by identifying areas where improvements in biodiversity, flood risk reduction and quality of life can take place. And we mainly use MCDA to classify the data and then apply K means with the normalized QGIS data to construct typology.
 
 ### 2.1.1 Research question 1: ...?
 - Instrument 1 (quan/qual)
