@@ -32,13 +32,13 @@ This dataset contains qualitative and/or quantitative data on ... Context for th
 
 ## 1.3 Author Information
 A. Principal Investigator  
-- Name: 
+- Name: Ula Nina Kunigėlytė
 - Institution: 
 - Address: 
 - Email: 
 
 B. Associate or Co-investigator
-- Name: 
+- Name: Ruofan Lin
 - Institution: 
 - Address: 
 - Email:
